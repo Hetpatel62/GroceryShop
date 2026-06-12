@@ -1,0 +1,40 @@
+# Build results
+Bin/
+obj/
+Debug/
+Release/
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+packages/
+.nuget/
+
+# Local configuration
+Web.config.local
+appsettings.local.json
+
+# IDE files
+*.csproj.user
+*.vbproj.user
+*.projprops
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~*
